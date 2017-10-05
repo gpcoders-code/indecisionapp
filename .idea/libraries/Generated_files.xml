@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/src/playground/es6-arrow-function.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/playground/es6-arrow-function2.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/playground/es6-let-const.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/playground/counter-example.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/app.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/playground/es6-classes-1.js" />
+        <item url="file://$PROJECT_DIR$/dist/public/scripts/app.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/playground/jsx-indecision.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/src/playground/es6-arrow-function.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/playground/es6-arrow-function2.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/playground/es6-let-const.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/playground/counter-example.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/app.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/playground/es6-classes-1.js" />
+      <root url="file://$PROJECT_DIR$/dist/public/scripts/app.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/playground/jsx-indecision.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
